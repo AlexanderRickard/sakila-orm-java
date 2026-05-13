@@ -1,0 +1,142 @@
+[
+  {
+    "filmId": 1,
+    "title": "ACADEMY DINOSAUR",
+    "description": "A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 2,
+    "title": "ACE GOLDFINGER",
+    "description": "A Astounding Epistle of a Database Administrator And a Explorer who must Find a Car in Ancient China",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  },
+  {
+    "filmId": 3,
+    "title": "ADAPTATION HOLES",
+    "description": "A Astounding Reflection of a Lumberjack And a Car who must Sink a Lumberjack in A Baloon Factory",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 4,
+    "title": "AFFAIR PREJUDICE",
+    "description": "A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 5,
+    "title": "AFRICAN EGG",
+    "description": "A Fast-Paced Documentary of a Pastry Chef And a Dentist who must Pursue a Forensic Psychologist in The Gulf of Mexico",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 6,
+    "title": "AGENT TRUMAN",
+    "description": "A Intrepid Panorama of a Robot And a Boy who must Escape a Sumo Wrestler in Ancient China",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 7,
+    "title": "AIRPLANE SIERRA",
+    "description": "A Touching Saga of a Hunter And a Butler who must Discover a Butler in A Jet Boat",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  },
+  {
+    "filmId": 8,
+    "title": "AIRPORT POLLOCK",
+    "description": "A Epic Tale of a Moose And a Girl who must Confront a Monkey in Ancient India",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  },
+  {
+    "filmId": 9,
+    "title": "ALABAMA DEVIL",
+    "description": "A Thoughtful Panorama of a Database Administrator And a Mad Scientist who must Outgun a Mad Scientist in A Jet Boat",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 10,
+    "title": "ALADDIN CALENDAR",
+    "description": "A Action-Packed Tale of a Man And a Lumberjack who must Reach a Feminist in Ancient China",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  },
+  {
+    "filmId": 11,
+    "title": "ALAMO VIDEOTAPE",
+    "description": "A Boring Epistle of a Butler And a Cat who must Fight a Pastry Chef in A MySQL Convention",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 12,
+    "title": "ALASKA PHANTOM",
+    "description": "A Fanciful Saga of a Hunter And a Pastry Chef who must Vanquish a Boy in Australia",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 13,
+    "title": "ALI FOREVER",
+    "description": "A Action-Packed Drama of a Dentist And a Crocodile who must Battle a Feminist in The Canadian Rockies",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  },
+  {
+    "filmId": 14,
+    "title": "ALICE FANTASIA",
+    "description": "A Emotional Drama of a A Shark And a Database Administrator who must Vanquish a Pioneer in Soviet Georgia",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 15,
+    "title": "ALIEN CENTER",
+    "description": "A Brilliant Drama of a Cat And a Mad Scientist who must Battle a Feminist in A MySQL Convention",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 16,
+    "title": "ALLEY EVOLUTION",
+    "description": "A Fast-Paced Drama of a Robot And a Composer who must Battle a Astronaut in New Orleans",
+    "releaseYear": 2006,
+    "rentalRate": 2.99
+  },
+  {
+    "filmId": 17,
+    "title": "ALONE TRIP",
+    "description": "A Fast-Paced Character Study of a Composer And a Dog who must Outgun a Boat in An Abandoned Fun House",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 18,
+    "title": "ALTER VICTORY",
+    "description": "A Thoughtful Drama of a Composer And a Feminist who must Meet a Secret Agent in The Canadian Rockies",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 19,
+    "title": "AMADEUS HOLY",
+    "description": "A Emotional Display of a Pioneer And a Technical Writer who must Battle a Man in A Baloon",
+    "releaseYear": 2006,
+    "rentalRate": 0.99
+  },
+  {
+    "filmId": 20,
+    "title": "AMELIE HELLFIGHTERS",
+    "description": "A Boring Drama of a Woman And a Squirrel who must Conquer a Student in A Baloon",
+    "releaseYear": 2006,
+    "rentalRate": 4.99
+  }
+]
